@@ -4,7 +4,7 @@
         "fr": "Recette test",
         "en": "Test receipe"
     },
-    "nb_people": 2,
+    "nbPeople": 2,
     "stars": 2,
     "tags": [
         "1f0ce536-a01d-4c7c-9412-d696920ea051"
@@ -14,8 +14,8 @@
     ],
     "steps": [
         {
-            "step_uuid": "60d1b1a1-f4ab-4d8a-8b8b-dbb248b90318",
-            "previous_step_uuid": null,
+            "stepUuid": "60d1b1a1-f4ab-4d8a-8b8b-dbb248b90318",
+            "previousStepUuid": null,
             "description": "First step",
             "duration": 10,
             "aliments": {

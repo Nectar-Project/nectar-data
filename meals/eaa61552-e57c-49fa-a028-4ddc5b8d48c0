@@ -1,6 +1,6 @@
 {
     "uuid": "eaa61552-e57c-49fa-a028-4ddc5b8d48c0",
-    "nb_people": 2,
+    "nbPeople": 2,
     "timestamp": 1585322751,
     "description": "Un repas de test"
     "aliments": {
