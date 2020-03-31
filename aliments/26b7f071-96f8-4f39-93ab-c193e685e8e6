@@ -1,12 +1,9 @@
 {
-    "uuid": "a7a12c60-1604-48ee-9991-0e4baa08006d",
     "names": {
-        "fr": "Pomme",
-        "en": "Apple"
+        "fr": "Pomme de térre tesà",
+        "en": "Potato"
     },
-    "images": [
-        "e56f15a5-29f5-4ba7-8c9a-f750a31198ce"
-    ],
+    "uuid": "26b7f071-96f8-4f39-93ab-c193e685e8e6",
     "tags": [
         "1f0ce536-a01d-4c7c-9412-d696920ea051"
     ],
