@@ -1,9 +1,6 @@
 {
     "uuid": "592bfb6a-0519-4ba6-855c-f4e467eb98fc",
-    "names": {
-        "fr": "Recette test",
-        "en": "Test receipe"
-    },
+    "nameUuid": "55017f67-8ecd-4446-ac1a-d39c4cc302e1",
     "nbPeople": 2,
     "stars": 2,
     "tags": [
