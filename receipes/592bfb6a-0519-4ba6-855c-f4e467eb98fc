@@ -1,8 +1,10 @@
 {
     "uuid": "592bfb6a-0519-4ba6-855c-f4e467eb98fc",
     "nameUuid": "55017f67-8ecd-4446-ac1a-d39c4cc302e1",
-    "nbPeople": 2,
     "stars": 2,
+    "measures": {
+        "1f0ce536-a01d-4c7c-9412-d696920ea051": 1
+    },
     "tags": [
         "1f0ce536-a01d-4c7c-9412-d696920ea051"
     ],
