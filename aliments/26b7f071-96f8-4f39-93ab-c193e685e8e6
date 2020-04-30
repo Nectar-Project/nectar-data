@@ -181,7 +181,8 @@
         "tyrosine": 0.001,
         "valine": 0.012,
         "water": 86.67,
-        "zinc": 0.05
+        "zinc": 0.05,
+        "pral": 0
       }
     }
   },
