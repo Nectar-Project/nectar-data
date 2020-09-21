@@ -3,7 +3,9 @@
   "nameUuid": "e1c0a6a5-b6a5-4bb6-9837-3a692381289f",
   "states": {
     "7c1bbfec-7cfc-48e3-b874-edd7e14ed493": {
-      "measures": {},
+      "measures": {
+        "f6bf8d61-df9a-45f6-ab91-a06cfbaa27e0": 120
+      },
       "nutrition": {
         "a": 0.0,
         "alanine": 0.0,
