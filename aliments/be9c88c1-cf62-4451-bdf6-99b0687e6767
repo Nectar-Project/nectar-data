@@ -1,8 +1,8 @@
 {
   "images": [],
-  "nameUuid": "713946d1-fc38-496e-807a-a91537b562dc",
+  "nameUuid": "5430fadd-0743-47c6-8598-f1eac02e4cf1",
   "states": {
-    "7c1bbfec-7cfc-48e3-b874-edd7e14ed493": {
+    "b4a57113-58c1-4b27-910e-6b466fda2f2d": {
       "measures": {},
       "nutrition": {
         "a": 0.0,
@@ -92,5 +92,5 @@
     }
   },
   "tags": [],
-  "uuid": "f4fc4145-a455-461b-93c4-ad0112e9c69d"
+  "uuid": "be9c88c1-cf62-4451-bdf6-99b0687e6767"
 }
